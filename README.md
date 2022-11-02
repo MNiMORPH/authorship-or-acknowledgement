@@ -7,8 +7,14 @@ There are four contribution categories:
 * Collecting the data / writing the model / designing and/or building the aparatus
 * Analyzing the data / running the model / deploying the aparatus
 * Writing the paper (investing in writing it; this is >> small comments and edits)
-* Funding the project (large currency: a substantial amount of the total salary, field work, lab/analytical expenses, equipment expenses, and page charges)
+* Funding/conceptualizing/coordinating the project: This involves developing original ideas and hypotheses, obtaining key grants for the work (substantial amount of the total salary, field work, lab/analytical expenses, equipment expenses, and page charges), and/or coordinating researchers to address the research questions
 
 **Have you fulfilled one category? You are included in the acknowledgements.**
 
 **Have you contributed in two or more categories? You are an author.**
+
+
+# Academic Honesty
+
+The above points are predacated on **academic honesty**. This means that:
+* Intellectual contribution including formulation of research ideas, hypotheses, and coordinating researchers to address research questions (this typically includes substantial literature review and writing of the paper, as well). “
