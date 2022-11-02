@@ -7,7 +7,7 @@ There are four contribution categories:
 * Collecting the data / writing the model / designing and/or building the aparatus
 * Analyzing the data / running the model / deploying the aparatus
 * Writing the paper (investing in writing it; this is >> small comments and edits)
-* Funding the project (large currency: substantial salary, field work, lab/analytical expenses, equipment expenses, etc.)
+* Funding the project (large currency: a substantial amount of the total salary, field work, lab/analytical expenses, equipment expenses, and page charges)
 
 **Have you fulfilled one category? You are included in the acknowledgements.**
 
