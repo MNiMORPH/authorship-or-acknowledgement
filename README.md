@@ -13,8 +13,4 @@ There are four contribution categories:
 
 **Have you contributed in two or more categories? You are an author.**
 
-
-# Academic Honesty
-
-The above points are predacated on **academic honesty**. This means that:
-* Intellectual contribution including formulation of research ideas, hypotheses, and coordinating researchers to address research questions (this typically includes substantial literature review and writing of the paper, as well). “
+<!-- The above points are predacated on **academic honesty**. -->
