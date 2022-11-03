@@ -1,6 +1,6 @@
 # Authorship or acknowledgement?
 
-My ([**@awickert**](https://github.com/awickert)'s) philosophy on academic coauthorship is to leave the door open and see who walks through. This feels friendly and places free collaboration in the place of academic gatekeeping. Of course, to pass through the threshold, there must be some amount of reasonable contribution to deserve the coauthorship, and it is best that this is not arbitrary (or else the gatekeepers stealthily return). Our research group therefore follows [**@RolfHut**](https://github.com/RolfHut)'s approach, though perhaps with some light-to-nearly-invisible modification.
+My ([**@awickert**](https://github.com/awickert)'s) philosophy on academic coauthorship is to leave the door open and see who walks through. This feels friendly and places free collaboration in the place of academic gatekeeping. Of course, to pass through the threshold, there must be some amount of reasonable contribution to deserve the coauthorship, and it is best that this is not arbitrary (or else the gatekeepers stealthily return). Our research group therefore follows a modified version of [**@RolfHut**](https://github.com/RolfHut)'s approach.
 
 There are four contribution categories:
 
